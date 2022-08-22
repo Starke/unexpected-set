@@ -46,9 +46,6 @@
     "unexpected": "Starke/unexpected#master",
     "unexpected-documentation-site-generator": "^7.1.0"
   },
-  "peerDependencies": {
-    "unexpected": "^10.37.4 || ^11.0.0-4 || ^12.0.0"
-  },
   "dependencies": {},
   "nyc": {
     "include": [
